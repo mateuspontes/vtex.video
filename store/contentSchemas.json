@@ -19,9 +19,8 @@
         },
         "autoPlay": {
           "title": "admin/editor.video.autoPlay.title",
-          "description": "admin/editor.video.autoPlay.description",
-          "$ref": "app:vtex.native-types#/definitions/text",
-          "default": ""
+          "default": true,
+          "type": "boolean"
         },
         "poster": {
           "title": "admin/editor.video.poster.title",
