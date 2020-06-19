@@ -1,4 +1,9 @@
 {
-  "admin/test": "test",
-  "store/test": "test"
+  "admin/editor.video.title": "Video",
+  "admin/editor.video.description": "Add a video",
+  "admin/editor.video.src.title": "Video url",
+  "admin/editor.video.width.title": "Width",
+  "admin/editor.video.height.title": "Height",
+  "admin/editor.video.autoPlay.title": "Should autoplay",
+  "admin/editor.video.poster.title": "Alternative poster"
 }

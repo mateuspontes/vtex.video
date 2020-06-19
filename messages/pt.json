@@ -1,4 +1,9 @@
 {
-  "admin/test": "teste",
-  "store/test": "teste"
+  "admin/editor.video.title": "Vídeo",
+  "admin/editor.video.description": "Adicione um vídeo",
+  "admin/editor.video.src.title": "Url do vídeo",
+  "admin/editor.video.width.title": "Largura",
+  "admin/editor.video.height.title": "Altura",
+  "admin/editor.video.autoPlay.title": "Tocar automaticamente",
+  "admin/editor.video.poster.title": "Imagem alternativa"
 }
